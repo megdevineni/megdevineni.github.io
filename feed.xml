@@ -3,8 +3,8 @@
 	<channel>
 		<title>Meg's Bookshelf</title>
 		<description>description</description>
-		<link>http://localhost:9001</link>
-		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
+		<link>megsbookshelf.com</link>
+		<atom:link href="megsbookshelf.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>2017 Reading List</title>
@@ -12,9 +12,9 @@
 				
 					<description>The list was compiled to include most of my interests and also to push my horizons as a reader...</description>
 				
-				<pubDate>Sat, 24 Dec 2016 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/2016/12/24/debut.html</link>
-				<guid isPermaLink="true">http://localhost:9001/2016/12/24/debut.html</guid>
+				<pubDate>Mon, 26 Dec 2016 01:00:00 +0000</pubDate>
+				<link>megsbookshelf.com/2016/12/26/debut.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/2016/12/26/debut.html</guid>
 			</item>
 		
 			<item>
@@ -24,8 +24,8 @@
 					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
 				
 				<pubDate>Mon, 15 Dec 2014 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/history/2014/12/15/a-life-of-walt-disney.html</link>
-				<guid isPermaLink="true">http://localhost:9001/history/2014/12/15/a-life-of-walt-disney.html</guid>
+				<link>megsbookshelf.com/history/2014/12/15/a-life-of-walt-disney.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/history/2014/12/15/a-life-of-walt-disney.html</guid>
 			</item>
 		
 			<item>
@@ -35,8 +35,8 @@
 					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
 				
 				<pubDate>Fri, 28 Nov 2014 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/history/2014/11/28/mickey-mouse.html</link>
-				<guid isPermaLink="true">http://localhost:9001/history/2014/11/28/mickey-mouse.html</guid>
+				<link>megsbookshelf.com/history/2014/11/28/mickey-mouse.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/history/2014/11/28/mickey-mouse.html</guid>
 			</item>
 		
 			<item>
@@ -46,8 +46,8 @@
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
 				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/history/1983/12/16/television.html</link>
-				<guid isPermaLink="true">http://localhost:9001/history/1983/12/16/television.html</guid>
+				<link>megsbookshelf.com/history/1983/12/16/television.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/history/1983/12/16/television.html</guid>
 			</item>
 		
 			<item>
@@ -57,8 +57,8 @@
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
 				<pubDate>Fri, 18 Nov 1932 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/history/1932/11/18/color-films.html</link>
-				<guid isPermaLink="true">http://localhost:9001/history/1932/11/18/color-films.html</guid>
+				<link>megsbookshelf.com/history/1932/11/18/color-films.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/history/1932/11/18/color-films.html</guid>
 			</item>
 		
 			<item>
@@ -68,8 +68,8 @@
 					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
 				
 				<pubDate>Mon, 13 Jan 1930 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/history/1930/01/13/comics.html</link>
-				<guid isPermaLink="true">http://localhost:9001/history/1930/01/13/comics.html</guid>
+				<link>megsbookshelf.com/history/1930/01/13/comics.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/history/1930/01/13/comics.html</guid>
 			</item>
 		
 			<item>
@@ -79,8 +79,8 @@
 					<description>In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
 				
 				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/history/1929/03/28/black-and-white-films.html</link>
-				<guid isPermaLink="true">http://localhost:9001/history/1929/03/28/black-and-white-films.html</guid>
+				<link>megsbookshelf.com/history/1929/03/28/black-and-white-films.html</link>
+				<guid isPermaLink="true">megsbookshelf.com/history/1929/03/28/black-and-white-films.html</guid>
 			</item>
 		
 	</channel>
