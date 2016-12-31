@@ -7,14 +7,25 @@
 		<atom:link href="megsbookshelf.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Imagining India - India as a narrative of ideas</title>
+				
+				
+					<description>...</description>
+				
+				<pubDate>Sat, 31 Dec 2016 01:00:00 +0000</pubDate>
+				<link>megsbookshelf.com/2016/12/31/imagining-india/</link>
+				<guid isPermaLink="true">megsbookshelf.com/2016/12/31/imagining-india/</guid>
+			</item>
+		
+			<item>
 				<title>2017 Reading List</title>
 				
 				
 					<description>The list was compiled to include most of my interests and also to push my horizons as a reader...</description>
 				
 				<pubDate>Mon, 26 Dec 2016 01:00:00 +0000</pubDate>
-				<link>megsbookshelf.com/2016/12/26/Reading-List.html</link>
-				<guid isPermaLink="true">megsbookshelf.com/2016/12/26/Reading-List.html</guid>
+				<link>megsbookshelf.com/2016/12/26/reading-list/</link>
+				<guid isPermaLink="true">megsbookshelf.com/2016/12/26/reading-list/</guid>
 			</item>
 		
 	</channel>
